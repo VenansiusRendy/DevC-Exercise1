@@ -1,0 +1,45 @@
+{
+  "name": "devc-exercise1",
+  "version": "1.0.0",
+  "description": "Biography",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.4.1",
+    "lite-server": "^2.5.4",
+    "popper.js": "^1.12.9",
+    "terser": "^4.4.0"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "browser-sync": "^2.26.7",
+    "del": "^3.0.0",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^3.9.3",
+    "gulp-flatmap": "^1.0.2",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-imagemin": "^6.1.1",
+    "gulp-rev": "^8.1.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-terser": "^1.2.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-usemin": "^0.3.29"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VenansiusRendy/DevC-Exercise1.git"
+  },
+  "keywords": [
+    "Devc-Exercise1"
+  ],
+  "author": "Rendy Setiawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VenansiusRendy/DevC-Exercise1/issues"
+  },
+  "homepage": "https://github.com/VenansiusRendy/DevC-Exercise1#readme"
+}
